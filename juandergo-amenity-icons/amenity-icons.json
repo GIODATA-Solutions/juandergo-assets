@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "air-conditioning",
+    "label": "Air Conditioning",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "lucide:air-vent",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-air-conditioning\"><path d=\"M18 17.5a2.5 2.5 0 1 1-4 2.03V12\" /><path d=\"M6 12H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2\" /><path d=\"M6 8h12\" /><path d=\"M6.6 15.572A2 2 0 1 0 10 17v-5\" /></svg>"
+  },
+  {
+    "id": "electric-fan",
+    "label": "Electric Fan",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-electric-fan\"><circle cx=\"12\" cy=\"9\" r=\"7\"/><path d=\"M12 9h.01\"/><path d=\"M12 9c0-2 1-3.5 3-3.6\"/><path d=\"M12 9c-1.7 1-3.5.9-4.6-.8\"/><path d=\"M12 9c1.7 1 2.4 2.8 1.6 4.6\"/><path d=\"M12 16v4\"/><path d=\"M8 21h8\"/></svg>"
+  },
+  {
+    "id": "ceiling-fan",
+    "label": "Ceiling Fan",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-ceiling-fan\"><path d=\"M12 2v4\"/><path d=\"M10 6h4v3a2 2 0 0 1-4 0Z\"/><path d=\"M10 8 3.5 7.5a1.5 1.5 0 0 0 0 3L10 10\"/><path d=\"m14 8 6.5-.5a1.5 1.5 0 0 1 0 3L14 10\"/><path d=\"M9 15a3 3 0 0 0 6 0Z\"/><path d=\"M12 11v4\"/></svg>"
+  },
+  {
+    "id": "heating",
+    "label": "Heating",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "lucide:heater",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-heating\"><path d=\"M11 8c2-3-2-3 0-6\" /><path d=\"M15.5 8c2-3-2-3 0-6\" /><path d=\"M6 10h.01\" /><path d=\"M6 14h.01\" /><path d=\"M10 16v-4\" /><path d=\"M14 16v-4\" /><path d=\"M18 16v-4\" /><path d=\"M20 6a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h3\" /><path d=\"M5 20v2\" /><path d=\"M19 20v2\" /></svg>"
+  },
+  {
+    "id": "blackout-curtains",
+    "label": "Blackout Curtains",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-blackout-curtains\"><path d=\"M2 3h20\"/><path d=\"M4 3v18h8\"/><path d=\"M8 3v18\"/><path d=\"M12 3v10\"/><path d=\"M16 3v8\"/><path d=\"M20 3v8\"/><g transform=\"translate(18 17.5) scale(0.42) translate(-12 -12)\" stroke-width=\"4.762\"><path d=\"M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401\" /></g></svg>"
+  },
+  {
+    "id": "curtains-window-coverings",
+    "label": "Curtains / Window Coverings",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-curtains-window-coverings\"><path d=\"M2 3h20\"/><path d=\"M4 3h5c0 4-1.5 7-3.5 9 2 2 3.5 5 3.5 9H4Z\"/><path d=\"M20 3h-5c0 4 1.5 7 3.5 9-2 2-3.5 5-3.5 9H20Z\"/></svg>"
+  },
+  {
+    "id": "mosquito-net",
+    "label": "Mosquito Net",
+    "group": "Room / Unit Amenities",
+    "category": "Comfort & Climate",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-mosquito-net\"><path d=\"M12 2v2\"/><path d=\"M12 4 4 14v4\"/><path d=\"M12 4l8 10v4\"/><path d=\"M2 18h20\"/><path d=\"M4 18v3\"/><path d=\"M20 18v3\"/><path d=\"M8 9.5v2\"/><path d=\"M8 14v2\"/><path d=\"M12 7v2\"/><path d=\"M12 11.5v2\"/><path d=\"M12 16v.01\"/><path d=\"M16 9.5v2\"/><path d=\"M16 14v2\"/></svg>"
+  },
+  {
+    "id": "wi-fi",
+    "label": "Wi-Fi",
+    "group": "Room / Unit Amenities",
+    "category": "Internet & Connectivity",
+    "source": "lucide:wifi",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-wi-fi\"><path d=\"M12 20h.01\" /><path d=\"M2 8.82a15 15 0 0 1 20 0\" /><path d=\"M5 12.859a10 10 0 0 1 14 0\" /><path d=\"M8.5 16.429a5 5 0 0 1 7 0\" /></svg>"
+  },
+  {
+    "id": "wired-internet-ethernet",
+    "label": "Wired Internet / Ethernet",
+    "group": "Room / Unit Amenities",
+    "category": "Internet & Connectivity",
+    "source": "lucide:ethernet-port",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-wired-internet-ethernet\"><path d=\"M10 8v1\" /><path d=\"M14 8v1\" /><path d=\"M18 8v1\" /><path d=\"M19 17a2 2 0 00-1.765 1.059l-.47.882A2 2 0 0115 20H9a2 2 0 01-1.765-1.059l-.47-.882A2 2 0 005 17H4a2 2 0 01-2-2V6a2 2 0 012-2h16a2 2 0 012 2v9a2 2 0 01-2 2z\" /><path d=\"M6 8v1\" /></svg>"
+  },
+  {
+    "id": "telephone",
+    "label": "Telephone",
+    "group": "Room / Unit Amenities",
+    "category": "Internet & Connectivity",
+    "source": "lucide:phone",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-telephone\"><path d=\"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384\" /></svg>"
+  },
+  {
+    "id": "television",
+    "label": "Television",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "lucide:tv",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-television\"><path d=\"m17 2-5 5-5-5\" /><rect width=\"20\" height=\"15\" x=\"2\" y=\"7\" rx=\"2\" /></svg>"
+  },
+  {
+    "id": "smart-tv",
+    "label": "Smart TV",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-smart-tv\"><rect width=\"20\" height=\"14\" x=\"2\" y=\"4\" rx=\"2\"/><path d=\"M8 21h8\"/><path d=\"M12 18v3\"/><path d=\"M8.5 10a5 5 0 0 1 7 0\"/><path d=\"M10 12.2a2.5 2.5 0 0 1 4 0\"/><path d=\"M12 14.3h.01\"/></svg>"
+  },
+  {
+    "id": "cable-satellite-tv",
+    "label": "Cable / Satellite TV",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "lucide:satellite-dish",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cable-satellite-tv\"><path d=\"M18 12a6 6 0 00-6-6\" /><path d=\"M2.824 10.459a8 8 0 0010.717 10.717c.558-.276.623-1.012.183-1.452l-9.448-9.448c-.44-.44-1.176-.375-1.452.183\" /><path d=\"M22 12A10 10 0 0012 2\" /><path d=\"m9 15 4-4\" /></svg>"
+  },
+  {
+    "id": "streaming-services",
+    "label": "Streaming Services",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "lucide:circle-play",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-streaming-services\"><path d=\"M9 9.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997A1 1 0 0 1 9 14.996z\" /><circle cx=\"12\" cy=\"12\" r=\"10\" /></svg>"
+  },
+  {
+    "id": "radio",
+    "label": "Radio",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-radio\"><rect width=\"20\" height=\"13\" x=\"2\" y=\"8\" rx=\"2\"/><circle cx=\"8\" cy=\"14.5\" r=\"3\"/><path d=\"M15 12.5h4\"/><path d=\"M15 16.5h4\"/><path d=\"M15 8 20 3\"/></svg>"
+  },
+  {
+    "id": "bluetooth-speaker",
+    "label": "Bluetooth Speaker",
+    "group": "Room / Unit Amenities",
+    "category": "Entertainment",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bluetooth-speaker\"><rect width=\"12\" height=\"20\" x=\"6\" y=\"2\" rx=\"3\"/><circle cx=\"12\" cy=\"16.5\" r=\"3\"/><path d=\"m9.5 6.5 5 4-2.5 2v-8l2.5 2-5 4\"/></svg>"
+  },
+  {
+    "id": "hot-shower",
+    "label": "Hot Shower",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-hot-shower\"><path d=\"M4 22V7a4 4 0 0 1 4-4h3a4 4 0 0 1 4 4\"/><path d=\"M11 11a4 4 0 0 1 8 0Z\"/><path d=\"M12 14c-.8 1-.8 2 0 3s.8 2 0 3\"/><path d=\"M15 14c-.8 1-.8 2 0 3s.8 2 0 3\"/><path d=\"M18 14c-.8 1-.8 2 0 3s.8 2 0 3\"/></svg>"
+  },
+  {
+    "id": "cold-shower",
+    "label": "Cold Shower",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cold-shower\"><path d=\"M4 22V7a4 4 0 0 1 4-4h3a4 4 0 0 1 4 4\"/><path d=\"M11 11a4 4 0 0 1 8 0Z\"/><path d=\"M12 14v.01\"/><path d=\"M15 14v.01\"/><path d=\"M18 14v.01\"/><path d=\"M15 16v6\"/><path d=\"m12.4 17.5 5.2 3\"/><path d=\"m12.4 20.5 5.2-3\"/></svg>"
+  },
+  {
+    "id": "bathtub",
+    "label": "Bathtub",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "lucide:bath",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bathtub\"><path d=\"M10 4 8 6\" /><path d=\"M17 19v2\" /><path d=\"M2 12h20\" /><path d=\"M7 19v2\" /><path d=\"M9 5 7.621 3.621A2.121 2.121 0 0 0 4 5v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5\" /></svg>"
+  },
+  {
+    "id": "bidet",
+    "label": "Bidet",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bidet\"><path d=\"M3 12h18\"/><path d=\"M4 12a8 6 0 0 0 16 0\"/><path d=\"M10 18v3h4v-3\"/><path d=\"M18 12V8\"/><path d=\"M18 8h-2\"/><path d=\"M14 9c-1.5-2.5-4-3.5-6-2\"/><path d=\"M10 4v.01\"/><path d=\"M13 3v.01\"/><path d=\"M7 5v.01\"/></svg>"
+  },
+  {
+    "id": "toilet",
+    "label": "Toilet",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "lucide:toilet",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-toilet\"><path d=\"M7 12h13a1 1 0 0 1 1 1 5 5 0 0 1-5 5h-.598a.5.5 0 0 0-.424.765l1.544 2.47a.5.5 0 0 1-.424.765H5.402a.5.5 0 0 1-.424-.765L7 18\" /><path d=\"M8 18a5 5 0 0 1-5-5V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8\" /></svg>"
+  },
+  {
+    "id": "sink-wash-basin",
+    "label": "Sink / Wash Basin",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-sink-wash-basin\"><path d=\"M3 12h18\"/><path d=\"M4 12a8 6 0 0 0 16 0\"/><path d=\"M10 18v3h4v-3\"/><path d=\"M12 12V6a2 2 0 0 1 2-2h2\"/><path d=\"M16 4v2\"/><path d=\"M16 9v.01\"/></svg>"
+  },
+  {
+    "id": "towels",
+    "label": "Towels",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "lucide:towel-rack",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-towels\"><path d=\"M22 7h-2\" /><path d=\"M6.5 3h11A2.5 2.5 0 0 1 20 5.5V20a1 1 0 0 1-1 1h-9a1 1 0 0 1-1-1V5.5a1 1 0 0 0-5 0V17a1 1 0 0 0 1 1h4\" /><path d=\"M9 7H2\" /></svg>"
+  },
+  {
+    "id": "bathrobes",
+    "label": "Bathrobes",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bathrobes\"><path d=\"M8 2 3 6v7h3v9h12v-9h3V6l-5-4\"/><path d=\"M8 2l4 6 4-6\"/><path d=\"M12 8v6\"/><path d=\"M6 14h12\"/><path d=\"M11 14l-1 3\"/><path d=\"M13 14l1 3\"/></svg>"
+  },
+  {
+    "id": "slippers",
+    "label": "Slippers",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-slippers\"><path d=\"M7 2a3 3 0 0 0-3 3v11a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z\"/><path d=\"M4 8.5c2 1 4 1 6 0\"/><path d=\"M17 6a3 3 0 0 0-3 3v10a3 3 0 0 0 6 0V9a3 3 0 0 0-3-3Z\"/><path d=\"M14 12.5c2 1 4 1 6 0\"/></svg>"
+  },
+  {
+    "id": "toiletries",
+    "label": "Toiletries",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-toiletries\"><path d=\"M3 11h18v7a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3Z\"/><path d=\"M3 14h18\"/><path d=\"M7 11V6h3v5\"/><path d=\"M8 6V3h1\"/><path d=\"M14 11V8h4v3\"/><path d=\"M15 8V6h2v2\"/></svg>"
+  },
+  {
+    "id": "shampoo",
+    "label": "Shampoo",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-shampoo\"><path d=\"M7 10a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2Z\"/><path d=\"M10 8V5h4v3\"/><path d=\"M12 5V2H8\"/><path d=\"M8 2v2\"/><path d=\"M10 14h4\"/><path d=\"M10 17h4\"/></svg>"
+  },
+  {
+    "id": "body-wash-soap",
+    "label": "Body Wash / Soap",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-body-wash-soap\"><rect width=\"16\" height=\"9\" x=\"2\" y=\"12\" rx=\"3\"/><path d=\"M6 16.5h8\"/><circle cx=\"16\" cy=\"6\" r=\"3\"/><circle cx=\"9.5\" cy=\"6.5\" r=\"2\"/><circle cx=\"20.5\" cy=\"10\" r=\"1.5\"/></svg>"
+  },
+  {
+    "id": "conditioner",
+    "label": "Conditioner",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-conditioner\"><path d=\"M8 2h8l-1 13H9Z\"/><path d=\"M9 15h6v5a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2Z\"/><path d=\"M10.5 6h3\"/><path d=\"M10.5 9.5h3\"/></svg>"
+  },
+  {
+    "id": "toothbrush-dental-kit",
+    "label": "Toothbrush / Dental Kit",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "lucide:toothbrush",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-toothbrush-dental-kit\"><path d=\"M15 11c-2 2-4 2-6 4l-7 7\" /><path d=\"m22 4-7.414 7.414-2-2A2 2 0 0114 6c0-.512.196-1.024.586-1.414A2 2 0 0116 4a2 2 0 013.262-1.552l2.152 2.138\" /></svg>"
+  },
+  {
+    "id": "hair-dryer",
+    "label": "Hair Dryer",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-hair-dryer\"><path d=\"M14 3H6L3 4.5v5L6 11h8\"/><path d=\"M14 3a4 4 0 0 1 0 8\"/><path d=\"M10 11v8a2 2 0 0 0 4 0v-8\"/><circle cx=\"14\" cy=\"7\" r=\"1.5\"/><path d=\"M19.5 5h2\"/><path d=\"M19.5 9h2\"/></svg>"
+  },
+  {
+    "id": "mirror",
+    "label": "Mirror",
+    "group": "Room / Unit Amenities",
+    "category": "Bathroom Essentials",
+    "source": "lucide:mirror-rectangular",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-mirror\"><path d=\"M11 6 8 9\" /><path d=\"m16 7-8 8\" /><rect x=\"4\" y=\"2\" width=\"16\" height=\"20\" rx=\"2\" /></svg>"
+  },
+  {
+    "id": "full-kitchen",
+    "label": "Full Kitchen",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-full-kitchen\"><path d=\"M8 2h8l2 4H6Z\"/><path d=\"M12 6v2\"/><rect width=\"18\" height=\"13\" x=\"3\" y=\"9\" rx=\"2\"/><path d=\"M3 13h18\"/><path d=\"M7 11v.01\"/><path d=\"M10.5 11v.01\"/><path d=\"M17 11h-3\"/><rect width=\"10\" height=\"5\" x=\"7\" y=\"15\" rx=\"1\"/></svg>"
+  },
+  {
+    "id": "kitchenette",
+    "label": "Kitchenette",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-kitchenette\"><path d=\"M2 12h20\"/><path d=\"M4 12v9h16v-9\"/><path d=\"M12 12v9\"/><path d=\"M10 15v2\"/><path d=\"M14 15v2\"/><path d=\"M5 9h6\"/><path d=\"M6 9V7a2 2 0 0 1 4 0v2\"/><path d=\"M17 12V6a2 2 0 0 1 2-2h1\"/><path d=\"M20 4v2\"/></svg>"
+  },
+  {
+    "id": "refrigerator",
+    "label": "Refrigerator",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "lucide:refrigerator",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-refrigerator\"><path d=\"M5 6a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6Z\" /><path d=\"M5 10h14\" /><path d=\"M15 7v6\" /></svg>"
+  },
+  {
+    "id": "mini-refrigerator",
+    "label": "Mini Refrigerator",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-mini-refrigerator\"><rect width=\"14\" height=\"14\" x=\"5\" y=\"6\" rx=\"2\"/><path d=\"M5 10h14\"/><path d=\"M8 12.5v3\"/><path d=\"M7 20v2\"/><path d=\"M17 20v2\"/><path d=\"M8 8h.01\"/></svg>"
+  },
+  {
+    "id": "freezer",
+    "label": "Freezer",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-freezer\"><rect width=\"20\" height=\"13\" x=\"2\" y=\"6\" rx=\"2\"/><path d=\"M2 10h20\"/><path d=\"M5 19v2\"/><path d=\"M19 19v2\"/><path d=\"M12 11.5v6\"/><path d=\"m9.4 13.0 5.2 3\"/><path d=\"m9.4 16.0 5.2-3\"/></svg>"
+  },
+  {
+    "id": "microwave",
+    "label": "Microwave",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "lucide:microwave",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-microwave\"><rect width=\"20\" height=\"15\" x=\"2\" y=\"4\" rx=\"2\" /><rect width=\"8\" height=\"7\" x=\"6\" y=\"8\" rx=\"1\" /><path d=\"M18 8v7\" /><path d=\"M6 19v2\" /><path d=\"M18 19v2\" /></svg>"
+  },
+  {
+    "id": "stove-cooktop",
+    "label": "Stove / Cooktop",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-stove-cooktop\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"/><circle cx=\"8.5\" cy=\"8.5\" r=\"2.5\"/><circle cx=\"15.5\" cy=\"8.5\" r=\"2.5\"/><circle cx=\"8.5\" cy=\"15.5\" r=\"2.5\"/><circle cx=\"15.5\" cy=\"15.5\" r=\"2.5\"/></svg>"
+  },
+  {
+    "id": "oven",
+    "label": "Oven",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-oven\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"/><path d=\"M3 8h18\"/><path d=\"M7 5.5v.01\"/><path d=\"M10.5 5.5v.01\"/><path d=\"M17 5.5h-3\"/><rect width=\"12\" height=\"7\" x=\"6\" y=\"11\" rx=\"1\"/><path d=\"M9 13.5h6\"/></svg>"
+  },
+  {
+    "id": "rice-cooker",
+    "label": "Rice Cooker",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-rice-cooker\"><path d=\"M4 11h16v7a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3Z\"/><path d=\"M3.5 11a8.5 5 0 0 1 17 0\"/><path d=\"M11 6h2\"/><path d=\"M2 14h2\"/><path d=\"M20 14h2\"/><path d=\"M10 15h4\"/></svg>"
+  },
+  {
+    "id": "electric-kettle",
+    "label": "Electric Kettle",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-electric-kettle\"><path d=\"M7 6h9l2 13H5Z\"/><path d=\"M4 21h16\"/><path d=\"M7 8 4 6\"/><path d=\"M16.5 8H18a3 3 0 0 1 3 3v3a3 3 0 0 1-3 3h-.6\"/><path d=\"M10 6V4h3v2\"/></svg>"
+  },
+  {
+    "id": "coffee-maker",
+    "label": "Coffee Maker",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-coffee-maker\"><path d=\"M4 21V4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v17\"/><path d=\"M2 21h20\"/><path d=\"M4 8h16\"/><path d=\"M12 10v1\"/><path d=\"M8 13h8v3a3 3 0 0 1-3 3h-2a3 3 0 0 1-3-3Z\"/><path d=\"M7 5.5h.01\"/></svg>"
+  },
+  {
+    "id": "toaster",
+    "label": "Toaster",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-toaster\"><path d=\"M3 13a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z\"/><path d=\"M7 9V5a2 2 0 0 1 4 0v4\"/><path d=\"M13 9V5a2 2 0 0 1 4 0v4\"/><path d=\"M17 14v3\"/><path d=\"M7 17h6\"/></svg>"
+  },
+  {
+    "id": "cookware",
+    "label": "Cookware",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "lucide:cooking-pot",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cookware\"><path d=\"M2 12h20\" /><path d=\"M20 12v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8\" /><path d=\"m4 8 16-4\" /><path d=\"m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8\" /></svg>"
+  },
+  {
+    "id": "cooking-utensils",
+    "label": "Cooking Utensils",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cooking-utensils\"><path d=\"M7 22V12\"/><path d=\"M5 3h4v9H5Z\"/><path d=\"M7 5.5v4\"/><path d=\"M17 3v11\"/><path d=\"M13 14a4 4 0 0 0 8 0Z\"/><path d=\"M15 3h2\"/></svg>"
+  },
+  {
+    "id": "tableware-dinnerware",
+    "label": "Tableware / Dinnerware",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-tableware-dinnerware\"><circle cx=\"12\" cy=\"12\" r=\"6\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M2.5 3v4a1.5 1.5 0 0 0 3 0V3\"/><path d=\"M4 8.5V21\"/><path d=\"M21 21V3c-1.5 1-2.2 3-2.2 6.5V12H21\"/></svg>"
+  },
+  {
+    "id": "glassware",
+    "label": "Glassware",
+    "group": "Room / Unit Amenities",
+    "category": "Kitchen",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-glassware\"><path d=\"M4 3h7l-.5 4a3 3 0 0 1-6 0Z\"/><path d=\"M7.5 10v8\"/><path d=\"M5 18h5\"/><path d=\"M14 8h7l-1 13h-5Z\"/><path d=\"M14.3 12h6.4\"/></svg>"
+  },
+  {
+    "id": "minibar",
+    "label": "Minibar",
+    "group": "Room / Unit Amenities",
+    "category": "Food & Drink",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-minibar\"><rect width=\"16\" height=\"17\" x=\"4\" y=\"4\" rx=\"2\"/><path d=\"M9 7v2l-1.5 2v6h3v-6L9 9\"/><path d=\"M14 12h3v5h-3Z\"/><path d=\"M17 8v.01\"/></svg>"
+  },
+  {
+    "id": "complimentary-bottled-water",
+    "label": "Complimentary Bottled Water",
+    "group": "Room / Unit Amenities",
+    "category": "Food & Drink",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-complimentary-bottled-water\"><path d=\"M10 2h4v2h-4Z\"/><path d=\"M10 4 8 7v13a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2V7l-2-3\"/><path d=\"M8 11h8\"/><path d=\"M8 17h8\"/><path d=\"M12 12.6c-.8 1-1 1.4-1 1.7a1 1 0 0 0 2 0c0-.3-.2-.7-1-1.7Z\"/></svg>"
+  },
+  {
+    "id": "coffee-tea",
+    "label": "Coffee / Tea",
+    "group": "Room / Unit Amenities",
+    "category": "Food & Drink",
+    "source": "lucide:coffee",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-coffee-tea\"><path d=\"M10 2v2\" /><path d=\"M14 2v2\" /><path d=\"M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1\" /><path d=\"M6 2v2\" /></svg>"
+  },
+  {
+    "id": "dining-table",
+    "label": "Dining Table",
+    "group": "Room / Unit Amenities",
+    "category": "Food & Drink",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-dining-table\"><path d=\"M6 11h12\"/><path d=\"M12 11v10\"/><path d=\"M9 21h6\"/><path d=\"M2 5v16\"/><path d=\"M2 15h4v6\"/><path d=\"M22 5v16\"/><path d=\"M22 15h-4v6\"/></svg>"
+  },
+  {
+    "id": "dining-area",
+    "label": "Dining Area",
+    "group": "Room / Unit Amenities",
+    "category": "Food & Drink",
+    "source": "lucide:utensils",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-dining-area\"><path d=\"M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2\" /><path d=\"M7 2v20\" /><path d=\"M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7\" /></svg>"
+  },
+  {
+    "id": "bed-linens",
+    "label": "Bed Linens",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bed-linens\"><path d=\"M3 5v16\"/><path d=\"M3 17h18\"/><path d=\"M21 13v8\"/><path d=\"M3 13h18\"/><path d=\"M11 13l3-3h7v3\"/><path d=\"M5 10h4\"/></svg>"
+  },
+  {
+    "id": "extra-pillows",
+    "label": "Extra Pillows",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-extra-pillows\"><path d=\"M3 5c2-1 4.5-1 6.5 0s4.5 1 6.5 0c.9 2.2.9 7.8 0 10-2 1-4.5 1-6.5 0s-4.5-1-6.5 0c-.9-2.2-.9-7.8 0-10Z\"/><path d=\"M18 15v6\"/><path d=\"M15 18h6\"/></svg>"
+  },
+  {
+    "id": "extra-blankets",
+    "label": "Extra Blankets",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-extra-blankets\"><rect width=\"14\" height=\"5\" x=\"2\" y=\"4\" rx=\"2\"/><rect width=\"14\" height=\"5\" x=\"2\" y=\"10\" rx=\"2\"/><path d=\"M5 6.5h2\"/><path d=\"M5 12.5h2\"/><path d=\"M18 15v6\"/><path d=\"M15 18h6\"/></svg>"
+  },
+  {
+    "id": "clothes-hangers",
+    "label": "Clothes Hangers",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-clothes-hangers\"><path d=\"M10 6a2 2 0 1 1 2 2v2\"/><path d=\"M12 10l9 7a1 1 0 0 1-.6 1.8H3.6A1 1 0 0 1 3 17Z\"/></svg>"
+  },
+  {
+    "id": "wardrobe-closet",
+    "label": "Wardrobe / Closet",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-wardrobe-closet\"><rect width=\"16\" height=\"18\" x=\"4\" y=\"2\" rx=\"1\"/><path d=\"M12 2v18\"/><path d=\"M10 10v2\"/><path d=\"M14 10v2\"/><path d=\"M6 20v2\"/><path d=\"M18 20v2\"/></svg>"
+  },
+  {
+    "id": "luggage-storage-rack",
+    "label": "Luggage Storage / Rack",
+    "group": "Room / Unit Amenities",
+    "category": "Bedroom & Sleeping",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-luggage-storage-rack\"><rect width=\"16\" height=\"9\" x=\"4\" y=\"4\" rx=\"2\"/><path d=\"M10 4V2h4v2\"/><path d=\"M9 4v9\"/><path d=\"M15 4v9\"/><path d=\"M7 13l10 9\"/><path d=\"M17 13 7 22\"/></svg>"
+  },
+  {
+    "id": "work-desk",
+    "label": "Work Desk",
+    "group": "Room / Unit Amenities",
+    "category": "Workspace",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-work-desk\"><path d=\"M2 14h20\"/><path d=\"M4 14v7\"/><path d=\"M20 14v7\"/><path d=\"M14 14v4h6\"/><path d=\"M16 16h2\"/><path d=\"M10 11v3\"/><path d=\"M8 14h4\"/><rect width=\"12\" height=\"8\" x=\"4\" y=\"3\" rx=\"1\"/></svg>"
+  },
+  {
+    "id": "desk-chair",
+    "label": "Desk Chair",
+    "group": "Room / Unit Amenities",
+    "category": "Workspace",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-desk-chair\"><rect width=\"10\" height=\"9\" x=\"7\" y=\"2\" rx=\"2\"/><path d=\"M5 13h14\"/><path d=\"M5 10v3\"/><path d=\"M19 10v3\"/><path d=\"M12 13v5\"/><path d=\"M7 21l5-3 5 3\"/></svg>"
+  },
+  {
+    "id": "dedicated-workspace",
+    "label": "Dedicated Workspace",
+    "group": "Room / Unit Amenities",
+    "category": "Workspace",
+    "source": "lucide:laptop",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-dedicated-workspace\"><path d=\"M18 5a2 2 0 0 1 2 2v8.526a2 2 0 0 0 .212.897l1.068 2.127a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45l1.068-2.127A2 2 0 0 0 4 15.526V7a2 2 0 0 1 2-2z\" /><path d=\"M20.054 15.987H3.946\" /></svg>"
+  },
+  {
+    "id": "power-outlet-near-bed",
+    "label": "Power Outlet Near Bed",
+    "group": "Room / Unit Amenities",
+    "category": "Workspace",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-power-outlet-near-bed\"><rect width=\"16\" height=\"16\" x=\"4\" y=\"4\" rx=\"3\"/><path d=\"M9.5 9v3\"/><path d=\"M14.5 9v3\"/><path d=\"M12 15v1\"/></svg>"
+  },
+  {
+    "id": "usb-charging-port",
+    "label": "USB Charging Port",
+    "group": "Room / Unit Amenities",
+    "category": "Workspace",
+    "source": "lucide:usb",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-usb-charging-port\"><circle cx=\"10\" cy=\"7\" r=\"1\" /><circle cx=\"4\" cy=\"20\" r=\"1\" /><path d=\"M4.7 19.3 19 5\" /><path d=\"m21 3-3 1 2 2Z\" /><path d=\"M9.26 7.68 5 12l2 5\" /><path d=\"m10 14 5 2 3.5-3.5\" /><path d=\"m18 12 1-1 1 1-1 1Z\" /></svg>"
+  },
+  {
+    "id": "seating-area",
+    "label": "Seating Area",
+    "group": "Room / Unit Amenities",
+    "category": "Living Area",
+    "source": "lucide:armchair",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-seating-area\"><path d=\"M19 9V6a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v3\" /><path d=\"M3 16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v1.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V11a2 2 0 0 0-4 0z\" /><path d=\"M5 18v2\" /><path d=\"M19 18v2\" /></svg>"
+  },
+  {
+    "id": "sofa",
+    "label": "Sofa",
+    "group": "Room / Unit Amenities",
+    "category": "Living Area",
+    "source": "lucide:sofa",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-sofa\"><path d=\"M20 9V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v3\" /><path d=\"M2 16a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v1.5a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5V11a2 2 0 0 0-4 0z\" /><path d=\"M4 18v2\" /><path d=\"M20 18v2\" /><path d=\"M12 4v9\" /></svg>"
+  },
+  {
+    "id": "living-room",
+    "label": "Living Room",
+    "group": "Room / Unit Amenities",
+    "category": "Living Area",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-living-room\"><path d=\"M3 13v-2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2\"/><path d=\"M2 15a2 2 0 0 1 4 0v1h8v-1a2 2 0 0 1 4 0v3a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2Z\"/><path d=\"M4 20v1\"/><path d=\"M16 20v1\"/><path d=\"M18.5 3h3l1 4h-5Z\"/><path d=\"M20 7v14\"/><path d=\"M18.5 21h3\"/></svg>"
+  },
+  {
+    "id": "coffee-table",
+    "label": "Coffee Table",
+    "group": "Room / Unit Amenities",
+    "category": "Living Area",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-coffee-table\"><rect width=\"20\" height=\"3\" x=\"2\" y=\"12\" rx=\"1\"/><path d=\"M5 15v6\"/><path d=\"M19 15v6\"/><path d=\"M5 18h14\"/><path d=\"M9 6h5v3a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2Z\"/><path d=\"M14 7h.5a1.5 1.5 0 0 1 0 3H14\"/></svg>"
+  },
+  {
+    "id": "balcony",
+    "label": "Balcony",
+    "group": "Room / Unit Amenities",
+    "category": "Outdoor & View Features",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-balcony\"><path d=\"M7 12V4a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v8\"/><path d=\"M12 3v9\"/><path d=\"M3 13h18\"/><path d=\"M3 21h18\"/><path d=\"M5 13v8\"/><path d=\"M9 13v8\"/><path d=\"M15 13v8\"/><path d=\"M19 13v8\"/><path d=\"M12 13v8\"/></svg>"
+  },
+  {
+    "id": "terrace",
+    "label": "Terrace",
+    "group": "Room / Unit Amenities",
+    "category": "Outdoor & View Features",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-terrace\"><circle cx=\"12\" cy=\"7\" r=\"3\"/><path d=\"M12 1.5v.5\"/><path d=\"M17.5 7h.5\"/><path d=\"M6 7h.5\"/><path d=\"M16 3l-.4.4\"/><path d=\"M8 3l.4.4\"/><path d=\"M2 13h20\"/><path d=\"M2 21h20\"/><path d=\"M4 13v8\"/><path d=\"M8 13v8\"/><path d=\"M12 13v8\"/><path d=\"M16 13v8\"/><path d=\"M20 13v8\"/></svg>"
+  },
+  {
+    "id": "patio",
+    "label": "Patio",
+    "group": "Room / Unit Amenities",
+    "category": "Outdoor & View Features",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-patio\"><path d=\"M3 15V3h10v12\"/><path d=\"M8 3v12\"/><path d=\"M2 15h20\"/><path d=\"M2 21h20\"/><path d=\"M3 18h4\"/><path d=\"M10 18h4\"/><path d=\"M17 18h4\"/><path d=\"M16 12h4l-.5 3h-3Z\"/><path d=\"M18 12v-2\"/><path d=\"M18 10c-1.5 0-2.5-1-2.5-2.5 1.5 0 2.5 1 2.5 2.5Z\"/><path d=\"M18 10c0-1.5 1-2.5 2.5-2.5 0 1.5-1 2.5-2.5 2.5Z\"/></svg>"
+  },
+  {
+    "id": "outdoor-seating",
+    "label": "Outdoor Seating",
+    "group": "Room / Unit Amenities",
+    "category": "Outdoor & View Features",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-outdoor-seating\"><path d=\"M3 7h12\"/><path d=\"M3 10h12\"/><path d=\"M2 14h14\"/><path d=\"M4 7v14\"/><path d=\"M14 7v14\"/><path d=\"M19.5 10.5V21\"/><path d=\"M18 21h3\"/><circle cx=\"19.5\" cy=\"7.5\" r=\"2.5\"/></svg>"
+  },
+  {
+    "id": "outdoor-dining-area",
+    "label": "Outdoor Dining Area",
+    "group": "Room / Unit Amenities",
+    "category": "Outdoor & View Features",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-outdoor-dining-area\"><path d=\"M2 9a10 6 0 0 1 20 0Z\"/><path d=\"M12 9v12\"/><path d=\"M6 15h12\"/><path d=\"M9 21h6\"/></svg>"
+  },
+  {
+    "id": "washing-machine",
+    "label": "Washing Machine",
+    "group": "Room / Unit Amenities",
+    "category": "Laundry & Clothing",
+    "source": "lucide:washing-machine",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-washing-machine\"><path d=\"M3 6h3\" /><path d=\"M17 6h.01\" /><rect width=\"18\" height=\"20\" x=\"3\" y=\"2\" rx=\"2\" /><circle cx=\"12\" cy=\"13\" r=\"5\" /><path d=\"M12 18a2.5 2.5 0 0 0 0-5 2.5 2.5 0 0 1 0-5\" /></svg>"
+  },
+  {
+    "id": "dryer",
+    "label": "Dryer",
+    "group": "Room / Unit Amenities",
+    "category": "Laundry & Clothing",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-dryer\"><rect width=\"18\" height=\"20\" x=\"3\" y=\"2\" rx=\"2\"/><path d=\"M3 6h18\"/><path d=\"M7 4h.01\"/><path d=\"M10 4h.01\"/><circle cx=\"12\" cy=\"14\" r=\"5\"/><path d=\"M10.5 12c-.5.7-.5 1.3 0 2s.5 1.3 0 2\"/><path d=\"M13.5 12c-.5.7-.5 1.3 0 2s.5 1.3 0 2\"/></svg>"
+  },
+  {
+    "id": "clothes-drying-rack",
+    "label": "Clothes Drying Rack",
+    "group": "Room / Unit Amenities",
+    "category": "Laundry & Clothing",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-clothes-drying-rack\"><path d=\"M9 3h6\"/><path d=\"M9 3 5 21\"/><path d=\"M15 3l4 18\"/><path d=\"M7.5 9h9\"/><path d=\"M6.2 15h11.6\"/><path d=\"M10 9v4h4V9\"/></svg>"
+  },
+  {
+    "id": "iron",
+    "label": "Iron",
+    "group": "Room / Unit Amenities",
+    "category": "Laundry & Clothing",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-iron\"><path d=\"M2 17l2.5-6H19a3 3 0 0 1 3 3v3Z\"/><path d=\"M9 11l1-4h8a2 2 0 0 1 2 2v2.5\"/><path d=\"M7 21v.01\"/><path d=\"M11 21v.01\"/><path d=\"M15 21v.01\"/><path d=\"M7 14h3\"/></svg>"
+  },
+  {
+    "id": "ironing-board",
+    "label": "Ironing Board",
+    "group": "Room / Unit Amenities",
+    "category": "Laundry & Clothing",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-ironing-board\"><path d=\"M4 7h13c2 0 4 1 5 2-1 1-3 2-5 2H4a2 2 0 0 1 0-4Z\"/><path d=\"M7 11l10 10\"/><path d=\"M17 11 7 21\"/></svg>"
+  },
+  {
+    "id": "in-room-safe",
+    "label": "In-room Safe",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "lucide:vault",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-in-room-safe\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" /><circle cx=\"7.5\" cy=\"7.5\" r=\".5\" fill=\"currentColor\" /><path d=\"m7.9 7.9 2.7 2.7\" /><circle cx=\"16.5\" cy=\"7.5\" r=\".5\" fill=\"currentColor\" /><path d=\"m13.4 10.6 2.7-2.7\" /><circle cx=\"7.5\" cy=\"16.5\" r=\".5\" fill=\"currentColor\" /><path d=\"m7.9 16.1 2.7-2.7\" /><circle cx=\"16.5\" cy=\"16.5\" r=\".5\" fill=\"currentColor\" /><path d=\"m13.4 13.4 2.7 2.7\" /><circle cx=\"12\" cy=\"12\" r=\"2\" /></svg>"
+  },
+  {
+    "id": "smoke-detector",
+    "label": "Smoke Detector",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "lucide:alarm-smoke",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-smoke-detector\"><path d=\"M11 21c0-2.5 2-2.5 2-5\" /><path d=\"M16 21c0-2.5 2-2.5 2-5\" /><path d=\"m19 8-.8 3a1.25 1.25 0 0 1-1.2 1H7a1.25 1.25 0 0 1-1.2-1L5 8\" /><path d=\"M21 3a1 1 0 0 1 1 1v2a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V4a1 1 0 0 1 1-1z\" /><path d=\"M6 21c0-2.5 2-2.5 2-5\" /></svg>"
+  },
+  {
+    "id": "carbon-monoxide-detector",
+    "label": "Carbon Monoxide Detector",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-carbon-monoxide-detector\"><rect width=\"16\" height=\"18\" x=\"4\" y=\"3\" rx=\"3\"/><rect width=\"10\" height=\"5\" x=\"7\" y=\"6\" rx=\"1\"/><path d=\"M9 15h.01\"/><path d=\"M12 15h.01\"/><path d=\"M15 15h.01\"/><path d=\"M9 18h.01\"/><path d=\"M12 18h.01\"/><path d=\"M15 18h.01\"/></svg>"
+  },
+  {
+    "id": "fire-extinguisher",
+    "label": "Fire Extinguisher",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "lucide:fire-extinguisher",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-fire-extinguisher\"><path d=\"M15 6.5V3a1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1v3.5\" /><path d=\"M9 18h8\" /><path d=\"M18 3h-3\" /><path d=\"M11 3a6 6 0 0 0-6 6v11\" /><path d=\"M5 13h4\" /><path d=\"M17 10a4 4 0 0 0-8 0v10a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2Z\" /></svg>"
+  },
+  {
+    "id": "first-aid-kit",
+    "label": "First Aid Kit",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "lucide:briefcase-medical",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-first-aid-kit\"><path d=\"M12 11v4\" /><path d=\"M14 13h-4\" /><path d=\"M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2\" /><path d=\"M18 6v14\" /><path d=\"M6 6v14\" /><rect width=\"20\" height=\"14\" x=\"2\" y=\"6\" rx=\"2\" /></svg>"
+  },
+  {
+    "id": "emergency-lighting",
+    "label": "Emergency Lighting",
+    "group": "Room / Unit Amenities",
+    "category": "Safety & Security",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-emergency-lighting\"><path d=\"M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5\"/><path d=\"M9 18h6\"/><path d=\"M10 22h4\"/><path d=\"m12.5 4.5-2.5 4h4l-2.5 4\"/></svg>"
+  },
+  {
+    "id": "wheelchair-accessible",
+    "label": "Wheelchair Accessible",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-wheelchair-accessible\"><circle cx=\"9\" cy=\"4\" r=\"2\"/><path d=\"M9 7v6h6l3 6h2\"/><path d=\"M9 9.5h5\"/><path d=\"M6 11.5A6 6 0 1 0 15 19.4\"/></svg>"
+  },
+  {
+    "id": "step-free-access",
+    "label": "Step-Free Access",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-step-free-access\"><path d=\"M3 20h18V8Z\"/><path d=\"M7 14.5l8-4.5\"/><path d=\"M12 9.5l3 .5-1 2.8\"/></svg>"
+  },
+  {
+    "id": "wide-doorways",
+    "label": "Wide Doorways",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-wide-doorways\"><path d=\"M5 21V3h14v18\"/><path d=\"M2 21h20\"/><path d=\"M8 12h8\"/><path d=\"M10 10l-2 2 2 2\"/><path d=\"M14 10l2 2-2 2\"/></svg>"
+  },
+  {
+    "id": "accessible-bathroom",
+    "label": "Accessible Bathroom",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-accessible-bathroom\"><g transform=\"translate(9 9) scale(0.62) translate(-12 -12)\" stroke-width=\"3.226\"><path d=\"M7 12h13a1 1 0 0 1 1 1 5 5 0 0 1-5 5h-.598a.5.5 0 0 0-.424.765l1.544 2.47a.5.5 0 0 1-.424.765H5.402a.5.5 0 0 1-.424-.765L7 18\" /><path d=\"M8 18a5 5 0 0 1-5-5V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8\" /></g><g transform=\"translate(17.5 17) scale(0.5) translate(-12 -12)\" stroke-width=\"4.0\"><circle cx=\"9\" cy=\"4\" r=\"2\"/><path d=\"M9 7v6h6l3 6h2\"/><path d=\"M9 9.5h5\"/><path d=\"M6 11.5A6 6 0 1 0 15 19.4\"/></g></svg>"
+  },
+  {
+    "id": "grab-bars",
+    "label": "Grab Bars",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-grab-bars\"><circle cx=\"5\" cy=\"8\" r=\"2\"/><circle cx=\"19\" cy=\"8\" r=\"2\"/><path d=\"M5 10v2a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3v-2\"/><path d=\"M3 20h18\"/></svg>"
+  },
+  {
+    "id": "roll-in-shower",
+    "label": "Roll-in Shower",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-roll-in-shower\"><g transform=\"translate(9 9.5) scale(0.68) translate(-12 -12)\" stroke-width=\"2.941\"><path d=\"M4 22V7a4 4 0 0 1 4-4h3a4 4 0 0 1 4 4\"/><path d=\"M11 11a4 4 0 0 1 8 0Z\"/><path d=\"M12 14v.01\"/><path d=\"M15 14v.01\"/><path d=\"M18 14v.01\"/><path d=\"M13 17v.01\"/><path d=\"M16.5 17v.01\"/></g><g transform=\"translate(17.5 17) scale(0.5) translate(-12 -12)\" stroke-width=\"4.0\"><circle cx=\"9\" cy=\"4\" r=\"2\"/><path d=\"M9 7v6h6l3 6h2\"/><path d=\"M9 9.5h5\"/><path d=\"M6 11.5A6 6 0 1 0 15 19.4\"/></g></svg>"
+  },
+  {
+    "id": "lowered-sink",
+    "label": "Lowered Sink",
+    "group": "Room / Unit Amenities",
+    "category": "Accessibility",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-lowered-sink\"><g transform=\"translate(9.5 12) scale(0.85) translate(-12 -12)\" stroke-width=\"2.353\"><path d=\"M3 12h14\"/><path d=\"M4 12a6 5 0 0 0 12 0\"/><path d=\"M8 17v4h4v-4\"/><path d=\"M10 12V6a2 2 0 0 1 2-2h2\"/><path d=\"M14 4v2\"/></g><path d=\"M20 5v11\"/><path d=\"M17.5 13.5 20 16l2.5-2.5\"/></svg>"
+  },
+  {
+    "id": "baby-crib-cot",
+    "label": "Baby Crib / Cot",
+    "group": "Room / Unit Amenities",
+    "category": "Family & Children",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-baby-crib-cot\"><path d=\"M3 3v18\"/><path d=\"M21 3v18\"/><path d=\"M3 6h18\"/><path d=\"M3 17h18\"/><path d=\"M7.5 6v11\"/><path d=\"M12 6v11\"/><path d=\"M16.5 6v11\"/></svg>"
+  },
+  {
+    "id": "high-chair",
+    "label": "High Chair",
+    "group": "Room / Unit Amenities",
+    "category": "Family & Children",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-high-chair\"><path d=\"M8 2v10\"/><path d=\"M8 12h8\"/><path d=\"M13 8h7\"/><path d=\"M9 12 6 22\"/><path d=\"M15 12l3 10\"/><path d=\"M7.5 17h9\"/><path d=\"M8 6h4\"/></svg>"
+  },
+  {
+    "id": "baby-safety-features",
+    "label": "Baby Safety Features",
+    "group": "Room / Unit Amenities",
+    "category": "Family & Children",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-baby-safety-features\"><path d=\"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z\"/><circle cx=\"12\" cy=\"12.5\" r=\"3.5\"/><path d=\"M12 9c0-1 .6-1.6 1.5-1.6\"/><path d=\"M10.8 13.6c.7.4 1.7.4 2.4 0\"/></svg>"
+  },
+  {
+    "id": "childrens-bed",
+    "label": "Children's Bed",
+    "group": "Room / Unit Amenities",
+    "category": "Family & Children",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-childrens-bed\"><path d=\"M3 8v13\"/><path d=\"M21 14v7\"/><path d=\"M3 15h18\"/><path d=\"M3 18h18\"/><path d=\"M5 15v-2.5h4V15\"/><g transform=\"translate(16 7) scale(0.38) translate(-12 -12)\" stroke-width=\"5.263\"><path d=\"M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z\" /></g></svg>"
+  },
+  {
+    "id": "private-pool",
+    "label": "Private Pool",
+    "group": "Room / Unit Amenities",
+    "category": "Private Facilities",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-pool\"><path d=\"M4 10l8-7 8 7\"/><path d=\"M6 8.5V12\"/><path d=\"M18 8.5V12\"/><path d=\"M2 15c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\"/><path d=\"M2 20c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\"/></svg>"
+  },
+  {
+    "id": "private-hot-tub-jacuzzi",
+    "label": "Private Hot Tub / Jacuzzi",
+    "group": "Room / Unit Amenities",
+    "category": "Private Facilities",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-hot-tub-jacuzzi\"><path d=\"M2 13h20v2a6 6 0 0 1-6 6H8a6 6 0 0 1-6-6Z\"/><path d=\"M6 21l-1 1\"/><path d=\"M18 21l1 1\"/><circle cx=\"8\" cy=\"9\" r=\"1.5\"/><circle cx=\"13\" cy=\"6\" r=\"1\"/><circle cx=\"16\" cy=\"9.5\" r=\"1.5\"/><circle cx=\"10\" cy=\"3\" r=\"1\"/></svg>"
+  },
+  {
+    "id": "private-sauna",
+    "label": "Private Sauna",
+    "group": "Room / Unit Amenities",
+    "category": "Private Facilities",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-sauna\"><rect width=\"16\" height=\"7\" x=\"4\" y=\"14\" rx=\"1\"/><path d=\"M6 14a2 2 0 0 1 4 0\"/><path d=\"M10 14a2 2 0 0 1 4 0\"/><path d=\"M14 14a2 2 0 0 1 4 0\"/><path d=\"M8 17.5h8\"/><path d=\"M8 9c-.7-.8-.7-1.7 0-2.5s.7-1.7 0-2.5\"/><path d=\"M12 9c-.7-.8-.7-1.7 0-2.5s.7-1.7 0-2.5\"/><path d=\"M16 9c-.7-.8-.7-1.7 0-2.5s.7-1.7 0-2.5\"/></svg>"
+  },
+  {
+    "id": "private-entrance",
+    "label": "Private Entrance",
+    "group": "Room / Unit Amenities",
+    "category": "Private Facilities",
+    "source": "lucide:door-closed-locked",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-entrance\"><path d=\"M19 8V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16\" /><path d=\"M2 21h8\" /><path d=\"M20 16v-2a2 2 0 00-4 0v2\" /><path d=\"M9 12h.01\" /><rect x=\"14\" y=\"16\" width=\"8\" height=\"5\" rx=\"1\" /></svg>"
+  },
+  {
+    "id": "private-garden",
+    "label": "Private Garden",
+    "group": "Room / Unit Amenities",
+    "category": "Private Facilities",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-garden\"><path d=\"M4 21v-7l2-2 2 2v7\"/><path d=\"M10 21v-7l2-2 2 2v7\"/><path d=\"M16 21v-7l2-2 2 2v7\"/><path d=\"M2 17h20\"/><path d=\"M12 12V8\"/><path d=\"M12 8c-2.5 0-4-1.5-4-4 2.5 0 4 1.5 4 4Z\"/><path d=\"M12 8c0-2.5 1.5-4 4-4 0 2.5-1.5 4-4 4Z\"/></svg>"
+  },
+  {
+    "id": "cleaning-supplies",
+    "label": "Cleaning Supplies",
+    "group": "Room / Unit Amenities",
+    "category": "Other",
+    "source": "lucide:broom-sparkles",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cleaning-supplies\"><path d=\"M11 2v2\" /><path d=\"M12 3h-2\" /><path d=\"M13.5 10.5 22 2\" /><path d=\"M14.734 13.841a2 2 0 00-.314-2.42L12.58 9.58a2 2 0 00-2.421-.314l-7.657 4.461A1 1 0 002.3 15.3l6.403 6.403a1 1 0 001.571-.204z\" /><path d=\"M20 15v4\" /><path d=\"M22 17h-4\" /><path d=\"M4 4v4\" /><path d=\"m5 18 2-2\" /><path d=\"M6 6H2\" /><path d=\"m7.699 10.7 5.602 5.601\" /></svg>"
+  },
+  {
+    "id": "umbrella",
+    "label": "Umbrella",
+    "group": "Room / Unit Amenities",
+    "category": "Other",
+    "source": "lucide:umbrella",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-umbrella\"><path d=\"M12 13v7a2 2 0 0 0 4 0\" /><path d=\"M12 2v2\" /><path d=\"M20.992 13a1 1 0 0 0 .97-1.274 10.284 10.284 0 0 0-19.923 0A1 1 0 0 0 3 13z\" /></svg>"
+  },
+  {
+    "id": "flashlight",
+    "label": "Flashlight",
+    "group": "Room / Unit Amenities",
+    "category": "Other",
+    "source": "lucide:flashlight",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-flashlight\"><path d=\"M12 13v1\" /><path d=\"M17 2a1 1 0 0 1 1 1v4a3 3 0 0 1-.6 1.8l-.6.8A4 4 0 0 0 16 12v8a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2v-8a4 4 0 0 0-.8-2.4l-.6-.8A3 3 0 0 1 6 7V3a1 1 0 0 1 1-1z\" /><path d=\"M6 6h12\" /></svg>"
+  },
+  {
+    "id": "swimming-pool",
+    "label": "Swimming Pool",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:waves-ladder",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-swimming-pool\"><path d=\"M19 5a2 2 0 0 0-2 2v11\" /><path d=\"M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\" /><path d=\"M7 13h10\" /><path d=\"M7 9h10\" /><path d=\"M9 5a2 2 0 0 0-2 2v11\" /></svg>"
+  },
+  {
+    "id": "childrens-pool",
+    "label": "Children's Pool",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-childrens-pool\"><circle cx=\"12\" cy=\"7\" r=\"5\"/><path d=\"M12 2c-1.8 1.5-1.8 8.5 0 10\"/><path d=\"M12 2c1.8 1.5 1.8 8.5 0 10\"/><path d=\"M2 16c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\"/><path d=\"M2 20.5c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1\"/></svg>"
+  },
+  {
+    "id": "restaurant",
+    "label": "Restaurant",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:utensils-crossed",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-restaurant\"><path d=\"m16 2-2.3 2.3a3 3 0 0 0 0 4.2l1.8 1.8a3 3 0 0 0 4.2 0L22 8\" /><path d=\"M15 15 3.3 3.3a4.2 4.2 0 0 0 0 6l7.3 7.3c.7.7 2 .7 2.8 0L15 15Zm0 0 7 7\" /><path d=\"m2.1 21.8 6.4-6.3\" /><path d=\"m19 5-7 7\" /></svg>"
+  },
+  {
+    "id": "cafe",
+    "label": "Café",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cafe\"><path d=\"M2 7l2-4h16l2 4\"/><path d=\"M2 7a2.5 2.5 0 0 0 5 0 2.5 2.5 0 0 0 5 0 2.5 2.5 0 0 0 5 0 2.5 2.5 0 0 0 5 0\"/><path d=\"M6 13h9v4a4 4 0 0 1-4 4h-1a4 4 0 0 1-4-4Z\"/><path d=\"M15 14h1a2 2 0 0 1 0 4h-1\"/></svg>"
+  },
+  {
+    "id": "bar",
+    "label": "Bar",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:martini",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-bar\"><path d=\"M12 12 4.207 4.207A.707.707 0 0 1 4.707 3h14.586a.707.707 0 0 1 .5 1.207z\" /><path d=\"M12 12v10\" /><path d=\"M7 22h10\" /></svg>"
+  },
+  {
+    "id": "parking",
+    "label": "Parking",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:square-parking",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-parking\"><path d=\"M9 12h4a2 2 0 0 0 0-4H9.5a.5.5 0 0 0-.5.5V16\" /><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\" /></svg>"
+  },
+  {
+    "id": "gym",
+    "label": "Gym",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:dumbbell",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-gym\"><path d=\"M17.596 12.768a2 2 0 1 0 2.829-2.829l-1.768-1.767a2 2 0 0 0 2.828-2.829l-2.828-2.828a2 2 0 0 0-2.829 2.828l-1.767-1.768a2 2 0 1 0-2.829 2.829z\" /><path d=\"m2.5 21.5 1.4-1.4\" /><path d=\"m20.1 3.9 1.4-1.4\" /><path d=\"M5.343 21.485a2 2 0 1 0 2.829-2.828l1.767 1.768a2 2 0 1 0 2.829-2.829l-6.364-6.364a2 2 0 1 0-2.829 2.829l1.768 1.767a2 2 0 0 0-2.828 2.829z\" /><path d=\"m9.6 14.4 4.8-4.8\" /></svg>"
+  },
+  {
+    "id": "spa",
+    "label": "Spa",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-spa\"><path d=\"M12 20c-2-2-3-5-3-8s1-6 3-8c2 2 3 5 3 8s-1 6-3 8Z\"/><path d=\"M12 20c-3.5 0-7.5-2-9-6.5 2.5-1 5-.8 6.6.6\"/><path d=\"M12 20c3.5 0 7.5-2 9-6.5-2.5-1-5-.8-6.6.6\"/></svg>"
+  },
+  {
+    "id": "front-desk",
+    "label": "Front Desk",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:concierge-bell",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-front-desk\"><path d=\"M3 20a1 1 0 0 1-1-1v-1a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v1a1 1 0 0 1-1 1Z\" /><path d=\"M20 16a8 8 0 1 0-16 0\" /><path d=\"M12 4v4\" /><path d=\"M10 4h4\" /></svg>"
+  },
+  {
+    "id": "elevator",
+    "label": "Elevator",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-elevator\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"/><path d=\"M9 9l3-3 3 3\"/><path d=\"M9 15l3 3 3-3\"/></svg>"
+  },
+  {
+    "id": "generator-backup-power",
+    "label": "Generator / Backup Power",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-generator-backup-power\"><rect width=\"18\" height=\"12\" x=\"3\" y=\"7\" rx=\"2\"/><path d=\"M6 7V4h12v3\"/><path d=\"M6 19v2\"/><path d=\"M18 19v2\"/><path d=\"m13 9-3 4h4l-3 4\"/></svg>"
+  },
+  {
+    "id": "ev-charging",
+    "label": "EV Charging",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:ev-charger",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-ev-charging\"><path d=\"M14 13h2a2 2 0 0 1 2 2v2a2 2 0 0 0 4 0v-6.998a2 2 0 0 0-.59-1.42L18 5\" /><path d=\"M14 21V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v16\" /><path d=\"M2 21h13\" /><path d=\"M3 7h11\" /><path d=\"m9 11-2 3h3l-2 3\" /></svg>"
+  },
+  {
+    "id": "beach-access",
+    "label": "Beach Access",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:tree-palm",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-beach-access\"><path d=\"M13 8c0-2.76-2.46-5-5.5-5S2 5.24 2 8h2l1-1 1 1h4\" /><path d=\"M13 7.14A5.82 5.82 0 0 1 16.5 6c3.04 0 5.5 2.24 5.5 5h-3l-1-1-1 1h-3\" /><path d=\"M5.89 9.71c-2.15 2.15-2.3 5.47-.35 7.43l4.24-4.25.7-.7.71-.71 2.12-2.12c-1.95-1.96-5.27-1.8-7.42.35\" /><path d=\"M11 15.5c.5 2.5-.17 4.5-1 6.5h4c2-5.5-.5-12-1-14\" /></svg>"
+  },
+  {
+    "id": "private-beach",
+    "label": "Private Beach",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-private-beach\"><g transform=\"rotate(-15 12 20)\"><path d=\"M12 4a8 5 0 0 0-8 5h16a8 5 0 0 0-8-5Z\"/><path d=\"M12 9v11\"/></g><path d=\"M2 21c3-1.5 7-1.5 10 0s7 1.5 10 0\"/></svg>"
+  },
+  {
+    "id": "garden",
+    "label": "Garden",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:trees",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-garden\"><path d=\"M10 10v.2A3 3 0 0 1 8.9 16H5a3 3 0 0 1-1-5.8V10a3 3 0 0 1 6 0Z\" /><path d=\"M7 16v6\" /><path d=\"M13 19v3\" /><path d=\"M12 19h8.3a1 1 0 0 0 .7-1.7L18 14h.3a1 1 0 0 0 .7-1.7L16 9h.2a1 1 0 0 0 .8-1.7L13 3l-1.4 1.5\" /></svg>"
+  },
+  {
+    "id": "playground",
+    "label": "Playground",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-playground\"><path d=\"M3 21 7 3h10l4 18\"/><path d=\"M2 3h20\"/><path d=\"M10 3v11\"/><path d=\"M14 3v11\"/><path d=\"M9 14h6\"/></svg>"
+  },
+  {
+    "id": "function-room",
+    "label": "Function Room",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:party-popper",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-function-room\"><path d=\"M5.8 11.3 2 22l10.7-3.79\" /><path d=\"M4 3h.01\" /><path d=\"M22 8h.01\" /><path d=\"M15 2h.01\" /><path d=\"M22 20h.01\" /><path d=\"m22 2-2.24.75a2.9 2.9 0 0 0-1.96 3.12c.1.86-.57 1.63-1.45 1.63h-.38c-.86 0-1.6.6-1.76 1.44L14 10\" /><path d=\"m22 13-.82-.33c-.86-.34-1.82.2-1.98 1.11c-.11.7-.72 1.22-1.43 1.22H17\" /><path d=\"m11 2 .33.82c.34.86-.2 1.82-1.11 1.98C9.52 4.9 9 5.52 9 6.23V7\" /><path d=\"M11 13c1.93 1.93 2.83 4.17 2 5-.83.83-3.07-.07-5-2-1.93-1.93-2.83-4.17-2-5 .83-.83 3.07.07 5 2Z\" /></svg>"
+  },
+  {
+    "id": "conference-room",
+    "label": "Conference Room",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:presentation",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-conference-room\"><path d=\"M2 3h20\" /><path d=\"M21 3v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V3\" /><path d=\"m7 21 5-5 5 5\" /></svg>"
+  },
+  {
+    "id": "coworking-space",
+    "label": "Coworking Space",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-coworking-space\"><circle cx=\"6\" cy=\"5\" r=\"2\"/><circle cx=\"18\" cy=\"5\" r=\"2\"/><path d=\"M2 12a4 4 0 0 1 8 0\"/><path d=\"M14 12a4 4 0 0 1 8 0\"/><path d=\"M2 15h20\"/><path d=\"M5 15v6\"/><path d=\"M19 15v6\"/><path d=\"M10 15l.6-3h2.8l.6 3\"/></svg>"
+  },
+  {
+    "id": "airport-transfer",
+    "label": "Airport Transfer",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:plane-landing",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-airport-transfer\"><path d=\"M2 22h20\" /><path d=\"M3.77 10.77 2 9l2-4.5 1.1.55c.55.28.9.84.9 1.45s.35 1.17.9 1.45L8 8.5l3-6 1.05.53a2 2 0 0 1 1.09 1.52l.72 5.4a2 2 0 0 0 1.09 1.52l4.4 2.2c.42.22.78.55 1.01.96l.6 1.03c.49.88-.06 1.98-1.06 2.1l-1.18.15c-.47.06-.95-.02-1.37-.24L4.29 11.15a2 2 0 0 1-.52-.38Z\" /></svg>"
+  },
+  {
+    "id": "shuttle-service",
+    "label": "Shuttle Service",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:bus-front",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-shuttle-service\"><path d=\"M4 6 2 7\" /><path d=\"M10 6h4\" /><path d=\"m22 7-2-1\" /><rect width=\"16\" height=\"16\" x=\"4\" y=\"3\" rx=\"2\" /><path d=\"M4 11h16\" /><path d=\"M8 15h.01\" /><path d=\"M16 15h.01\" /><path d=\"M6 19v2\" /><path d=\"M18 21v-2\" /></svg>"
+  },
+  {
+    "id": "laundry-service",
+    "label": "Laundry Service",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:shirt",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-laundry-service\"><path d=\"M20.38 3.46 16 2a4 4 0 0 1-8 0L3.62 3.46a2 2 0 0 0-1.34 2.23l.58 3.47a1 1 0 0 0 .99.84H6v10c0 1.1.9 2 2 2h8a2 2 0 0 0 2-2V10h2.15a1 1 0 0 0 .99-.84l.58-3.47a2 2 0 0 0-1.34-2.23z\" /></svg>"
+  },
+  {
+    "id": "luggage-storage",
+    "label": "Luggage Storage",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:luggage",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-luggage-storage\"><path d=\"M6 20a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2\" /><path d=\"M8 18V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v14\" /><path d=\"M10 20h4\" /><circle cx=\"16\" cy=\"20\" r=\"2\" /><circle cx=\"8\" cy=\"20\" r=\"2\" /></svg>"
+  },
+  {
+    "id": "security",
+    "label": "Security",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:shield-check",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-security\"><path d=\"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z\" /><path d=\"m9 12 2 2 4-4\" /></svg>"
+  },
+  {
+    "id": "cctv",
+    "label": "CCTV",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:cctv",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-cctv\"><path d=\"M16.75 12h3.632a1 1 0 0 1 .894 1.447l-2.034 4.069a1 1 0 0 1-1.708.134l-2.124-2.97\" /><path d=\"M17.106 9.053a1 1 0 0 1 .447 1.341l-3.106 6.211a1 1 0 0 1-1.342.447L3.61 12.3a2.92 2.92 0 0 1-1.3-3.91L3.69 5.6a2.92 2.92 0 0 1 3.92-1.3z\" /><path d=\"M2 19h3.76a2 2 0 0 0 1.8-1.1L9 15\" /><path d=\"M2 21v-4\" /><path d=\"M7 9h.01\" /></svg>"
+  },
+  {
+    "id": "tour-desk",
+    "label": "Tour Desk",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:map",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-tour-desk\"><path d=\"M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z\" /><path d=\"M15 5.764v15\" /><path d=\"M9 3.236v15\" /></svg>"
+  },
+  {
+    "id": "dive-center",
+    "label": "Dive Center",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-dive-center\"><path d=\"M3 9a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v3a3 3 0 0 1-3 3h-3l-1.5-2h-3L9 15H6a3 3 0 0 1-3-3Z\"/><path d=\"M12 6v4\"/><circle cx=\"8\" cy=\"19\" r=\"1\"/><circle cx=\"12\" cy=\"21\" r=\"1\"/><circle cx=\"16\" cy=\"19\" r=\"1\"/></svg>"
+  },
+  {
+    "id": "water-sports-facilities",
+    "label": "Water Sports Facilities",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:sailboat",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-water-sports-facilities\"><path d=\"M10 2v15\" /><path d=\"M7 22a4 4 0 0 1-4-4 1 1 0 0 1 1-1h16a1 1 0 0 1 1 1 4 4 0 0 1-4 4z\" /><path d=\"M9.159 2.46a1 1 0 0 1 1.521-.193l9.977 8.98A1 1 0 0 1 20 13H4a1 1 0 0 1-.824-1.567z\" /></svg>"
+  },
+  {
+    "id": "convenience-store",
+    "label": "Convenience Store",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:store",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-convenience-store\"><path d=\"M15 21v-5a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v5\" /><path d=\"M17.774 10.31a1.12 1.12 0 0 0-1.549 0 2.5 2.5 0 0 1-3.451 0 1.12 1.12 0 0 0-1.548 0 2.5 2.5 0 0 1-3.452 0 1.12 1.12 0 0 0-1.549 0 2.5 2.5 0 0 1-3.77-3.248l2.889-4.184A2 2 0 0 1 7 2h10a2 2 0 0 1 1.653.873l2.895 4.192a2.5 2.5 0 0 1-3.774 3.244\" /><path d=\"M4 10.95V19a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8.05\" /></svg>"
+  },
+  {
+    "id": "souvenir-shop",
+    "label": "Souvenir Shop",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:gift",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-souvenir-shop\"><path d=\"M12 7v14\" /><path d=\"M20 11v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8\" /><path d=\"M7.5 7a1 1 0 0 1 0-5A4.8 8 0 0 1 12 7a4.8 8 0 0 1 4.5-5 1 1 0 0 1 0 5\" /><rect x=\"3\" y=\"7\" width=\"18\" height=\"4\" rx=\"1\" /></svg>"
+  },
+  {
+    "id": "prayer-room",
+    "label": "Prayer Room",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "custom",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-prayer-room\"><path d=\"M12 3a3 3 0 0 0-3 3v4.5l-3 3V19\"/><path d=\"M12 3a3 3 0 0 1 3 3v4.5l3 3V19\"/><path d=\"M12 4v12\"/><path d=\"M12 16l-1.5 3\"/><path d=\"M12 16l1.5 3\"/><path d=\"M5 19h6v3H5Z\"/><path d=\"M13 19h6v3h-6Z\"/></svg>"
+  },
+  {
+    "id": "smoking-area",
+    "label": "Smoking Area",
+    "group": "Property Amenities",
+    "category": "Property",
+    "source": "lucide:cigarette",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"amenity-icon amenity-smoking-area\"><path d=\"M17 12H3a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1h14\" /><path d=\"M18 8c0-2.5-2-2.5-2-5\" /><path d=\"M21 16a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\" /><path d=\"M22 8c0-2.5-2-2.5-2-5\" /><path d=\"M7 12v4\" /></svg>"
+  }
+]
